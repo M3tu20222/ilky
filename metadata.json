@@ -1,6 +1,8 @@
 {
-  "name": "Cyberpunk First Aid Quiz",
-  "description": "Test your first aid knowledge with this dynamic quiz app, styled in a dark neon cyberpunk theme. Answer multiple-choice questions and track your score.",
+  "name": "Milli Eğitim İlk Yardım Testi",
+  "description": "T.C. Millî Eğitim Bakanlığı İlk Yardım Soru Kitabı'ndan derlenmiş, temel ilk yardım bilginizi ölçen çoktan seçmeli sınav soruları. Bilginizi test edin ve eksiklerinizi görün.",
   "requestFramePermissions": [],
-  "prompt": ""
+  "prompt": "",
+  "lang": "tr",
+  "dir": "ltr"
 }
